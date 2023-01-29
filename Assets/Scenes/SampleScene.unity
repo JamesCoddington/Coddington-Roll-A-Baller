@@ -344,7 +344,7 @@ RectTransform:
   m_GameObject: {fileID: 64819594}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 3.3686, y: 3.3686, z: 3.3686}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1200638493}
@@ -377,15 +377,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: You Win
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e27be63ce32366b49a27ad30a820d016, type: 2}
+  m_sharedMaterial: {fileID: 6347797718801186358, guid: e27be63ce32366b49a27ad30a820d016, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278247679
+  m_fontColor: {r: 1, g: 0.8777145, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -402,8 +402,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 103.97
-  m_fontSizeBase: 103.97
+  m_fontSize: 62.98
+  m_fontSizeBase: 62.98
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
